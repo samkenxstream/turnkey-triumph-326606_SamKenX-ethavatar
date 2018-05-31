@@ -25,7 +25,7 @@ The avatar image is stored on [IPFS](https://ipfs.io) and is bound to your addre
 
 ## To Integrate Into your App
 
-```
+```js
 // assumes you're running web3.js and ipfs.js already!  
 // todo: well need to host web3.js and ipfs-api.js on ethavatar.co so folks can pull down from there
 // https://gitcoin.co/static/v2/js/ipfs-api.js
